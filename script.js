@@ -17,4 +17,5 @@ const person = {
   }
 };
 const persons = new Object();
+console.log(person);
 console.log(persons);
